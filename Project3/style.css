@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .main-content small{
   letter-spacing: 2px;
 }
@@ -29,36 +28,4 @@ html {
     margin:auto;
     text-align:Center
   }
-=======
-.main-content small{
-  letter-spacing: 2px;
-}
-html {
-    scroll-behavior: smooth;
-  }
-
-@media screen and (max-width:1024px){
-  .main-content{
-    flex-direction: column;
-  }
-
-  .image{
-    margin:auto;
-    text-align:left;
-  }
-  .item{
-    margin:auto;
-    text-align:Center
-  }
-
-.btn1{
-  justify-content: center;
-  width:100%;
-  margin:40px auto
-}
-  .item p{
-    margin:auto;
-    text-align:Center
-  }
->>>>>>> c698ca774eba33d4b1f4f2270b42476b98eb7897
 }
